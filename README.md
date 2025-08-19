@@ -4,8 +4,9 @@
 <br>
 <br>
 Just kidding someone did ask for it.<br>
-Except, it was myself.
-<br>
+Except, it was myself.<br>
+
+![phito](https://github.com/user-attachments/assets/aea413d5-7320-4354-8024-53c1595df41e)
 <br>
 # Usage
 For the ones that want to test the project, Current build is hosted in my server and accessible in telegram.<br>
